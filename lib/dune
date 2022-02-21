@@ -1,0 +1,4 @@
+(library
+ (name block_8_asm)
+ (public_name block_8_asm)
+ (libraries stdint))

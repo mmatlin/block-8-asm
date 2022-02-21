@@ -1,0 +1,4 @@
+(executable
+ (public_name block_8_asm)
+ (name main)
+ (libraries block_8_asm))
